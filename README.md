@@ -34,4 +34,4 @@ Il est intéressant de noter que le programme permet également d'enregistrer le
 Maintenant, je voudrais vous parler du composant ShellApi qui a été utilisé dans le pro-gramme. Ce composant permet notamment d'accéder à des fonctions système telles que la copie, la suppression, le déplacement de fichiers, l'ouverture de fichiers et de dossiers, etc. Dans le programme, il est utilisé pour ouvrir des liens vers des sites Web et des applications installées sur l'ordinateur.
 En résumé, ce programme créé en Delphi 10.4 permet de créer dynamiquement un compo-sant Edit avec la possibilité d'ajouter des liens et des noms. Le programme permet égale-ment d'enregistrer les données saisies dans un fichier ini et utilise le composant ShellApi pour ouvrir des liens et des applications.
 
-
+Video https://youtu.be/k8xiKDh_OH0
